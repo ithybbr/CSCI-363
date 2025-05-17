@@ -1,0 +1,30 @@
+body {
+    background: rgb(172,167,255);
+    background: linear-gradient(90deg, rgba(172,167,255,1) 0%, rgba(140,179,255,1) 39%, rgba(166,240,255,1) 100%);
+    padding: 20px;
+}
+.login-wrapper {
+    margin: auto;
+    vertical-align: sub;
+    background: white;
+    justify-content: unset;
+    display: grid;
+}
+.register-inside {
+    background-color: var(--lumo-primary-color);
+    color: white;
+    width: 87%;
+    height: 110%;
+    top: -22px;
+    margin: auto;
+}
+.register-wrapper {
+    background: white;
+    display: grid;
+    margin: auto;
+    padding: 10px;
+    gap: 4px;
+}
+.login-link {
+    padding-top: 10px;
+}
