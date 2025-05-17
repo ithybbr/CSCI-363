@@ -1,0 +1,7 @@
+com\isbn\IsbnSuiteTest.class
+com\isbn\BookInvalidTest.class
+com\isbn\IsbnTest.class
+com\isbn\IsbnFormatExceptionTest.class
+com\isbn\BookSuiteTest.class
+com\isbn\BookTest.class
+com\isbn\IsbnTableTest.class
